@@ -22,7 +22,7 @@
 
 ### Databases
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ---
 
